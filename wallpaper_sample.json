@@ -1,0 +1,36 @@
+{
+	"Wallpapers":
+        [
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Mignon/master/01.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Mignon/master/01.jpg",
+				"name": "Wallpaper 1"
+
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Mignon/master/02.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Mignon/master/02.jpg",
+				"name": "Wallpaper 2"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Mignon/master/03.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Mignon/master/03.jpg",
+				"name": "Wallpaper 3"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Mignon/master/04.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Mignon/master/04.jpg",
+				"name": "Wallpaper 4"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Mignon/master/05.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.Mignon/master/05.jpg",
+				"name": "Wallpaper 5"
+			}
+		]
+}
